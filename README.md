@@ -106,8 +106,8 @@ Built using **Python, Pandas, Plotly, and Streamlit**.
 
   ## 📊 Sample Visuals
 
-![](images/image1.png)
-
 ![](images/image2.png)
+
+![](images/image1.png)
 
 ![](images/image3.png)
