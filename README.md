@@ -103,3 +103,11 @@ Built using **Python, Pandas, Plotly, and Streamlit**.
 - [Streamlit](https://streamlit.io/) (web framework)  
 
 ---
+
+  ## 📊 Sample Visuals
+
+![](images/image1.png)
+
+![](images/image2.png)
+
+![](images/image3.png)
