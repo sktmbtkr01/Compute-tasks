@@ -170,6 +170,8 @@ The dataset contained patient demographics, lifestyle factors, comorbidities, an
 
 We built a **Streamlit web application** to make the model interactive.
 
+🔗 **Live App:** [Asthma-Prediction](https://asthma-prediction-sktmtbkr.streamlit.app/)
+
 ### Features:
 - Questionnaire-style inputs:
   - Demographics (Age, Gender, BMI with calculator)  
